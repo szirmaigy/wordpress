@@ -26,7 +26,7 @@ define('DB_NAME', 'wordpress');
 define('DB_USER', 'wordpress');
 
 /** MySQL database password */
-define('DB_PASSWORD', 'nemtudom');
+define('DB_PASSWORD', 'fdsafsdahuSDC82BUCSA982W22dsds');
 
 /** MySQL hostname */
 define('DB_HOST', 'db');
@@ -64,6 +64,9 @@ define('NONCE_SALT',       'abc123456789ASDV343fd23d');
  * a unique prefix. Only numbers, letters, and underscores please!
  */
 $table_prefix  = 'wp_';
+
+define('DISALLOW_FILE_EDIT', true);
+define('WP_DEBUG', false);
 
 /**
  * For developers: WordPress debugging mode.
