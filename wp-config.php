@@ -26,10 +26,10 @@ define('DB_NAME', 'wordpress');
 define('DB_USER', 'wordpress');
 
 /** MySQL database password */
-define('DB_PASSWORD', 'fdsafsdahuSDC82BUCSA982W22dsds');
+define('DB_PASSWORD', 'Kutyafule');
 
 /** MySQL hostname */
-define('DB_HOST', 'db');
+define('DB_HOST', 'db-wordpress');
 
 /** Database Charset to use in creating database tables. */
 define('DB_CHARSET', 'utf8');
